@@ -1,0 +1,17 @@
+
+{
+    "manifest_version": 3,
+    "name": "Tiện ích Google",
+    "version": "1.0",
+    "description": "Q & A by DNTU student",
+    "action": {
+      "default_icon": {
+        "16": "images/image.jpg",
+        "48": "images/image.jpg",
+        "128": "images/image.jpg"
+      },
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  

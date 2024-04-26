@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    width: 310px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: none;
+    opacity: 0.3;
+    background-color: transparent; /* Set background color to transparent */
+    margin: 0; /* Remove default body margin */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Set a semi-transparent white background */
+    padding: 2px; /* Add padding for better visibility */
+    border: none; /* Remove border */
+}
+
+input {
+    width: 300px;
+    margin-right: 0px;
+}
+
+#result {
+    
+    padding-top: 3px;
+    text-align: left;
+}
